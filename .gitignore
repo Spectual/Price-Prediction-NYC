@@ -4,6 +4,10 @@ test/
 *.obj
 *.csv
 
+trainData.csv
+trainLabel.csv
+testingdata.csv
+
 .DS_Store
 .DS_Store/
 
