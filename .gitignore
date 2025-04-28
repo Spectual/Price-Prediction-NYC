@@ -6,7 +6,8 @@ test/
 
 trainData.csv
 trainLabel.csv
-testingdata.csv
+testingData.csv
+submission.csv
 
 .DS_Store
 .DS_Store/
